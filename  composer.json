@@ -1,7 +1,5 @@
 {
-  "formation": {
-    "web": {
-      "size": "free"
-    }
+  "require": {
+    "silex/silex": "~1.1",
   }
 }
